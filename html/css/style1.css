@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    font-family: 'PT Sans', sans-serif;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 6%;
+    margin: 100px auto 100px auto;
+}
+
+h1{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Charmonman', cursive , sans-serif;
+    font-size: 5.256em;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Fjalla One', sans-serif;
+    color: #3797a4;
+    font-weight: normal;
+    font-size: 2.256em;
+    margin: 5px;
+}
+h3{
+    font-family: 'Fjalla One', sans-serif;
+    color: #11999E;
+}
+div{
+    text-align: center;
+}
+
+/****************************************** IDS  SLECTION**************************************************/
+#top{ 
+    margin-bottom: 150px;
+
+}
+
+
+
+/******************************************CLASS SLECTION**************************************************/
+.topContainer{
+    background-color:#e4fbff;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.midContainer{
+                
+}
+.bottomContainer{
+                  background-color: #66BFBF;  
+                  padding: 50px;
+                  margin-top: 50px;
+                  
+
+
+}
+.bcloud{
+            position: absolute;
+            left:300px;
+           
+}
+.bottomrightcloud{
+            position: relative;
+            left:200px;
+            top:200px;
+}
+.topleftcloud{
+            position: absolute;
+            left:100px;
+            top:100px;
+}
+.toprightcloud{
+    position: absolute;
+    right:100px;
+    top:100px;
+}
+.mountain{
+            width:850px;
+            height:250px;
+            
+}
+.text{ 
+       position: relative;
+       bottom:110px;
+
+}
+.profilePic{
+             height: 200px;
+             width: 200px;
+             margin: 50px auto;
+    
+  
+}
+.skill-pic{
+            
+            width: 20%;
+           float: left;
+           margin-right: 30px;
+           
+           
+            
+}
+.skill-picc{
+    
+            width: 20%;
+            float: right;
+           margin-left: 30;
+    
+   
+}
+.skill-row{
+            width: 50%;
+            margin: 50px auto 50px auto;
+            text-align: left;
+}
+.skills{
+         padding-bottom: 50px;
+}
+.button{
+        transition-duration: 0.4s;
+        border-radius: 30px;
+        padding: 18px;
+        background-color: #11999E;
+        border: none;
+        color: white;
+        margin-top: 40px;
+        cursor: pointer;
+}
+.button:hover{
+    color: #0233508c;
+    background-color: rgb(4, 217, 255);
+}
+.rights{
+    color: white;
+}
+.footer-link{
+             color:#19456b;
+}

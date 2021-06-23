@@ -1,0 +1,15 @@
+body{
+    background-color: lightskyblue;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 6%;
+}
+h1{
+    text-align: center;
+    color: cornsilk;
+    font-family: Broadway;
+}
